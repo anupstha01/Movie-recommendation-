@@ -89,5 +89,3 @@ streamlit run app.py
 
 **Anup Shrestha**
 🔗 [GitHub](https://github.com/anupstha01)
-
-```
